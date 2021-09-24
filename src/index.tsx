@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 // import { Provider } from "react-redux";
-import Header from "./containers/Header";
+import Header from "../src/containers/Header";
 // import AppRouter from './routes';
 // import { fetchDataFromApi } from "./screens/Homepage/actions";
 // import configureStore from "./store/configureStore";
